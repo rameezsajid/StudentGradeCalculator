@@ -1,0 +1,9 @@
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\bin\Debug\RameezSajidUnit15.exe.config
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\obj\Debug\RameezSajidUnit15.csprojResolveAssemblyReference.cache
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\obj\Debug\RameezSajidUnit15.Form1.resources
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\obj\Debug\RameezSajidUnit15.Properties.Resources.resources
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\obj\Debug\RameezSajidUnit15.csproj.GenerateResource.Cache
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\bin\Debug\RameezSajidUnit15.exe
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\bin\Debug\RameezSajidUnit15.pdb
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\obj\Debug\RameezSajidUnit15.exe
+E:\Unit15Program\RameezSajidUnit15\RameezSajidUnit15\obj\Debug\RameezSajidUnit15.pdb
