@@ -1,1 +1,1 @@
-# StudentGradeCalculatorCSharp
+# Student Grade Calculator CSharp
